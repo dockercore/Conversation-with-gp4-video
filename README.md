@@ -11,7 +11,7 @@
 - 4.新增openai api-keys，打开这个文件 .env 再里面  VITE_OPENAI_KEY= “填写你自己的openai key”，没有的话在这里创建https://platform.openai.com/api-keys
 - 5.运行 npm run dev ；
 - 6.另外.全局proxy模式 或者 替换的包含api.openai.com 这个域名即可。
-- 7.打开 chrome 浏览器或者火狐浏览器，记得给 摄像头权限和语音权限哈 http://localhost:5173，选择 gpt4 点击start 对着 电脑说 中文 即可。
+- 7.打开 chrome 浏览器或者火狐浏览器，记得给 摄像头权限和语音权限哈 `http://localhost:5173` 选择gpt4 点击start 对着 电脑说 中文 即可。
 
 
 ### 使用门槛：
