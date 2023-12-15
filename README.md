@@ -1,5 +1,5 @@
 
-## chatgpt gpt-4-vision-preview支持中文语音对话哈
+## chatgpt gpt-4-vision-preview支持+中文+视频+语音对话
 
 - 1.克隆代码： git clone [ git@github.com:dockercore/Conversation-with-gp4-video.git](https://github.com/dockercore/Conversation-with-gp4-video.git)
 - 2.进入项目：Conversation-with-gp4-video
