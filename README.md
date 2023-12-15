@@ -1,8 +1,8 @@
 
 ## chatgpt gpt-4-vision-preview支持中文语音对话哈
 
-- 1.克隆代码： git clone  git@github.com:dockercore/Conversation-with-gp4-video.git
-- 2.进入项目：Conversation-with-gp4-video.git
+- 1.克隆代码： git clone [ git@github.com:dockercore/Conversation-with-gp4-video.git](https://github.com/dockercore/Conversation-with-gp4-video.git)
+- 2.进入项目：Conversation-with-gp4-video
 - 3.解决项目依赖：npm install  #安装可能会报错设置淘宝源npm config set registry https://registry.npm.taobao.org ,再试就好了
 - 4.在自己项目有一个文件名字为.env 里面  VITE_OPENAI_KEY= 填写你自己的openai key  没有的话，在这里创建https://platform.openai.com/api-keys
 - 5.运行 npm run dev ；
