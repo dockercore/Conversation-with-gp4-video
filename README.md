@@ -1,5 +1,5 @@
 
-## chatgpt gpt-4-vision-preview支持+中文+视频+语音对话
+# gpt-4w支持+中文+视频+语音对话
 
 - 1.克隆代码： git clone [ git@github.com:dockercore/Conversation-with-gp4-video.git](https://github.com/dockercore/Conversation-with-gp4-video.git)
 - 2.进入项目：Conversation-with-gp4-video
@@ -9,3 +9,9 @@
 - 6.另外.全局proxy模式 或者 替换的包含api.openai.com 这个域名即可。
 - 7.打开 chrome 浏览器或者火狐浏览器，记得给 摄像头权限和语音权限哈 http://localhost:5173，选择 gpt4 点击start 对着 电脑说 中文 即可。
 
+
+### 一些使用门槛：
+- 使用模型：gpt-4-vision-preview
+- 必须是开通openai key付费用户
+- 使用端口 443 必须
+- 默认调用接口：api.openai.com可以修改成自己的域名
